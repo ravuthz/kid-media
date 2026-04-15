@@ -27,42 +27,6 @@
     {
       "title": "Letter",
       "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Long title of playlist video with empty videos",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test1",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
-    },
-    {
-      "title": "Test2",
-      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
     }
   ]
 }
