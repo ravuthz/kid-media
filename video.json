@@ -1,3 +1,68 @@
 {
-  "ids": ["fqp95dM4nxA", "7qMbax1JpZ8", "f9NXC9n77", "AR7P4K25p6Y", "cvDYcyCB3jg"]
+  "settings": {
+    "autoPlay": true,
+    "sufflePlay": true
+  },
+  "playlist": [
+    {
+      "title": "Kid Song",
+      "videos": [
+        "fqp95dM4nxA",
+        "7qMbax1JpZ8",
+        "f9NXC9n77-c",
+        "AR7P4K25p6Y",
+        "cvDYcyCB3jg"
+      ]
+    },
+    {
+      "title": "Kid Number",
+      "videos": [
+        "f9NXC9n77-c",
+        "7qMbax1JpZ8",
+        "AR7P4K25p6Y",
+        "cvDYcyCB3jg",
+        "fqp95dM4nxA"
+      ]
+    },
+    {
+      "title": "Letter",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Long title of playlist video with empty videos",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test1",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    },
+    {
+      "title": "Test2",
+      "videos": ["https://www.youtube.com/watch?v=xLmAb7SFvLA"]
+    }
+  ]
 }
